@@ -1,0 +1,36 @@
+﻿  main.cpp
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\cs432.h(76,48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\mat.h(397,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\mat.h(409,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\mat.h(421,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\mat.h(495,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\mat.h(496,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\mat.h(497,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\mat.h(518,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\mat.h(520,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\mat.h(523,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\mat.h(533,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\mat.h(540,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(58,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(59,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(76,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(193,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(194,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(195,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(213,38): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(231,36): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(416,45): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(479,45): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(665,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(712,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(716,26): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(724,47): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(728,48): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(756,48): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(760,47): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(764,47): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(768,48): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(789,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(809,56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\src\main.cpp(964,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  asst5.vcxproj -> C:\Users\matth\Documents\UP\F21\CS432\asst5\asst5\Debug\asst5.exe
